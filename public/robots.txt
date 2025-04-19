@@ -1,0 +1,7 @@
+
+# Allow all web crawlers full access to the site.
+User-agent: *
+Disallow:
+
+# Specify the location of the sitemap (optional for now, but good practice)
+# Sitemap: https://your-codesnippets-pro-domain.com/sitemap.xml
