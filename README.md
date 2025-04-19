@@ -74,7 +74,7 @@ The primary purpose of building this project was to practice and demonstrate ski
 
 This project is automatically deployed to Vercel upon pushes to the `main` branch via GitHub Actions integration configured in `.github/workflows/deploy.yml`.
 
-The live deployment can be viewed at: [YOUR_VERCEL_DEPLOYMENT_URL](https://codesnippets-landing-xxxx.vercel.app) ## License
+The live deployment can be viewed at: [https://codesnippets-landing.vercel.app/](https://codesnippets-landing.vercel.app/) ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
