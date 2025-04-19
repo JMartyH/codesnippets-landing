@@ -3,7 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-brightgreen?logo=vercel)](https://codesnippets-landing-xxxx.vercel.app) A responsive landing page for "CodeSnippets Pro", a fictional cloud-based code snippet manager designed for developers. This project serves as a portfolio piece showcasing modern web development practices using Nuxt 3 and Tailwind CSS.
 
-![CodeSnippets Pro Landing Page Screenshot](screenshot.png) **Live Demo:** [https://codesnippets-landing-xxxx.vercel.app](https://codesnippets-landing-xxxx.vercel.app) ## Description
+![image](https://github.com/user-attachments/assets/4ba22385-87f5-4abe-b5bc-7470048263c5)
+ **Live Demo:** [https://codesnippets-landing.vercel.app](https://codesnippets-landing.vercel.app/) 
+ ## Description
 
 CodeSnippets Pro (a fictional product) aims to help developers organize, find, and reuse their trusted code patterns instantly, serving as an essential companion to modern development workflows, including AI code generation tools. This landing page highlights its core features and value proposition.
 
